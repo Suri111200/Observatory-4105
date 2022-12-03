@@ -10,10 +10,11 @@
  * Soorya Saravanapavan
  * Gregory Price
 
-## Some links:
-* Our wiki:
-* Project board:
-* Our requirements specifications:
+## Key Requirements:
+* The system shall allow an end user to connect to third party APIs to request data.
+* The system shall secure end users' data from unauthorized access.
+* The system shall create graphs and tables using requested data from APIs.
+* The system shall create dashboards containing data visualizations for the end user.
 
 ## Additional Notes:
 - Please note that this repository does not contain all of our source code; our source code is private, and this repository contains only the information which we wish to publicly share regarding our project.
