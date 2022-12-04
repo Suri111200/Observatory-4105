@@ -17,4 +17,4 @@
 * The system shall create dashboards containing data visualizations for the end user.
 
 ## Additional Notes:
-- Please note that this repository does not contain all of our source code; our source code is private, and this repository contains only the information which we wish to publicly share regarding our project.
+- Please note that this repository does not contain all of our source code. Our source code is private, and this repository contains only the information which we wish to publicly share regarding our project.
